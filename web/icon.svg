@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Triode symbol: envelope, plate, grid, cathode. -->
+  <rect width="512" height="512" fill="#b45309"/>
+  <circle cx="256" cy="256" r="150" fill="none" stroke="#fdfcf9" stroke-width="22"/>
+  <path d="M256 60 V186 M186 186 H326" stroke="#fdfcf9" stroke-width="22" stroke-linecap="round" fill="none"/>
+  <path d="M176 256 H206 M241 256 H271 M306 256 H336" stroke="#fbbf24" stroke-width="22" stroke-linecap="round"/>
+  <path d="M196 330 Q256 290 316 330 M316 330 V452" stroke="#fdfcf9" stroke-width="22" stroke-linecap="round" fill="none"/>
+</svg>

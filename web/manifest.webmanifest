@@ -1,0 +1,15 @@
+{
+  "name": "Amp Bench",
+  "short_name": "Amp Bench",
+  "description": "Audio amplifier design workbench: power and SPL, tube load lines, class AB and class D output stages, power supplies and output transformers.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#e9eeec",
+  "theme_color": "#b45309",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
